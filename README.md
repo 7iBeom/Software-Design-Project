@@ -28,7 +28,9 @@
 - **npm/yarn:** 최신 버전
 - **Google Safe Browsing API Key** (이미 .env에 포함)
 - **(선택) VirusTotal API Key** (이미 .env에 포함)
-- **Android Studio/에뮬레이터, 아래 링크 참고하여 설치 및 환경 구성**
+- **Android Studio/에뮬레이터**
+- **아래 링크 참고하여 설치 및 환경 구성**
+- **Android Emulator, Development build 선택**
 https://docs.expo.dev/get-started/set-up-your-environment/?platform=android&device=simulated&mode=development-build
 
 - **안정적인 인터넷 연결** (외부 API 연동 필수)
