@@ -108,3 +108,8 @@ Google Safe Browsing API Key, (선택) VirusTotal API Key가 포함되어 있어
 - 설정 페이지에서 알림, 자동저장, 데이터 초기화 기능 확인
 
 ---
+
+## 9. 테스트를 위한 URL
+### 위험 URL
+- https://testsafebrowsing.appspot.com/s/malware.html
+- https://testsafebrowsing.appspot.com/s/phishing.html
